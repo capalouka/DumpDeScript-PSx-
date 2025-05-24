@@ -1,5 +1,5 @@
 # DumpDeScript-PSx-
-Dump de script via output do jogo pet simulator x
+Dump da organização em arvore do jogo Brainrot simulator
 --[[
 Workspace (Workspace)
     Animation (ModuleScript)
